@@ -16,10 +16,10 @@
 <h1>About me</h1>
 
 <ul>
-<li> I’m currently Developing a multi-communication solution</li>
-<li> I’m currently working with advance control systems</li>
+<li> ECE Undergrad at BITS Goa</li>
+<li> </li>
 <li> Finalist at GCON Vegathon | Smart India Hackathon | Semi-finalist at SAMVEDANA 2021 | 2nd ranker at eYRC 2020</li>
-<li> Google Summer of Code'22 & '24 at Ardupilot | Technical Advisor at CUAV </li>
+<li> Learning <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a></li>
  
 </ul>
 

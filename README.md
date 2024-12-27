@@ -26,7 +26,7 @@
 <hr> 
 
 
-<h1>My Toolkit</h1>
+<h1>Tech Stack</h1>
 
 
 <p> 
@@ -36,17 +36,6 @@
 </p>
 
   <hr>
-  
- <h1><b>Git Activeness</b></h1>
- 
- <p>
-    <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=snktshrma&count_private=true&show_icons=true&bg_color=0D1117&text_color=FEFEFE&icon_color=FF0000&title_color=38D252&border_color=FEFEFE" />
-    <img align="right" alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=snktshrma&theme=github-dark&border=FEFEFE">
-
-</p>
-
-
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=snktshrma&bg_color=0D1117&color=38D252&point=FEFEFE&line=FF0000&hide_title=true)
  
 
 <h1>Socials</h1>

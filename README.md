@@ -49,9 +49,9 @@
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=snktshrma&bg_color=0D1117&color=38D252&point=FEFEFE&line=FF0000&hide_title=true)
  
 
-<h1>Social <img src="https://media.giphy.com/media/YCVBc32RFdqKpkiIMF/giphy.gif" width="48" /></h1>
+<h1>Socials</h1>
 
-   <a href="mailto:sharma.sanket272@gmail.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-   <a href="https://www.linkedin.com/in/sanket-sharma-2002/"><img alt="Robot" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="https://instagram.com/snktshrma"><img alt="Navigation" src ="https://img.shields.io/badge/instagram-%231DA1F2.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+   <a href="mailto:anirudhassa@gmail.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+   <a href="https://www.linkedin.com/in/bodsvei/"><img alt="Robot" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://instagram.com/bodsvei"><img alt="Navigation" src ="https://img.shields.io/badge/instagram-%231DA1F2.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 

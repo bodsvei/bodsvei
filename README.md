@@ -1,8 +1,8 @@
 <h2 align="center">
-  Hi! I am Sanket Sharma
+  Hi! I am Anirudh Singh Air
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
-<br>
+<br
   
 <p align="center">
   <a href="https://github.com/snktshrma?tab=repositories&sort=stargazers">
@@ -31,15 +31,8 @@
 
 <p> 
  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
- <a href="#"><img alt="ROS" src="https://img.shields.io/badge/ROS-1572B6?style=for-the-badge&logo=ros&logoColor=white"></a>
-  <a href="#"><img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
-  <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-F38020?style=for-the-badge&logo=pytorch&logoColor=black"></a>
- <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-430098?style=for-the-badge&logo=scipy&logoColor=black"></a>
-   <a href="#"><img alt="GO" src="https://img.shields.io/badge/GO-1572B6?style=for-the-badge&logo=go&logoColor=white"></a>
-  <a href="#"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"></a>
-   <a href="#"><img alt="Elixir" src="https://img.shields.io/badge/Elixir-FF9900?style=for-the-badge&logo=elixir&logoColor=#E57324"></a>
-  <a href="#"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4ea94b?style=for-the-badge&logo=mysql&logoColor=black"></a>
+  <a href="#"><img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 </p>
 
   <hr>

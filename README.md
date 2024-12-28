@@ -2,8 +2,6 @@
   Hi! I am Anirudh Singh Air
 </h2>
 
-
-
 <h1>About me</h1>
 
 <ul>

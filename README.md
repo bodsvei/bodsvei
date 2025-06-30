@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm Anirudh (aka. bodsvei)!</h2>
+<h2 align="center">👋 Hi, I'm Anirudh!</h2>
 
 <p align="center">
   <a href="https://github.com/bodsvei?tab=followers">

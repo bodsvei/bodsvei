@@ -59,6 +59,7 @@ Currently exploring robotics, deep learning frameworks, and data-driven automati
 A project in which we aim at making a humanoid robot's facial structure that can interact with humans and have some simple skills and interactions.
 <p>
   <img alt="Stars" src="https://img.shields.io/github/stars/bodsvei/project-vulcan?style=social">
+  <img alt="Forks" src="https://img.shields.io/github/forks/bodsvei/project-vulcan?style=social">
   <img alt="Language" src="https://img.shields.io/github/languages/top/bodsvei/project-vulcan?color=informational">
 </p>
 

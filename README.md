@@ -19,8 +19,11 @@ Currently exploring robotics middleware, deep learning frameworks, and data-driv
 ---
 
 ## 📊 GitHub Stats
-![Anirudh GitHub stats](https://github-readme-stats.vercel.app/api?username=bodsvei&theme=dark&show_icons=true)
-![Anirudh GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=bodsvei&theme=dark&border=FEFEFE)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bodsvei&theme=dark&show_icons=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bodsvei&theme=dark&border=FEFEFE" alt="GitHub Streak" />
+</p>
 
 ---
 

@@ -13,8 +13,8 @@
 
 ## About Me
 
-I'm a passionate developer and robotics enthusiast working on cutting-edge projects involving **C++**, **Python**, **ROS**, and **AI/ML**. I love building scalable, real-world systems and contributing to open source whenever possible.  
-Currently exploring robotics middleware, deep learning frameworks, and data-driven automation.
+I'm a passionate programmer and robotics enthusiast working on projects involving **C++**, **Python**, **ROS**, and **AI/ML**. I love building scalable, real-world systems and contributing to open source whenever possible.  
+Currently exploring robotics, deep learning frameworks, and data-driven automation.
 
 ---
 
@@ -65,11 +65,9 @@ A modular SLAM (Simultaneous Localization and Mapping) framework using ROS2 and 
 
 ---
 
-<!--### 🧠 [pytorch-vision-utils](https://github.com/bodsvei/pytorch-vision-utils)
+### 🧠 [pytorch-vision-utils]https://github.com/bodsvei/project-vulcan)
 A lightweight library of PyTorch utility functions for image preprocessing, augmentation, and model evaluation.  
 <p>
-  <img alt="Stars" src="https://img.shields.io/github/stars/bodsvei/pytorch-vision-utils?style=social">
-  <img alt="Language" src="https://img.shields.io/github/languages/top/bodsvei/pytorch-vision-utils?color=informational">
-</p> <--
-
--->
+  <img alt="Stars" src="https://img.shields.io/github/stars/bodsvei/project-vulcan?style=social">
+  <img alt="Language" src="https://img.shields.io/github/languages/top/bodsvei/project-vulcan?color=informational">
+</p>

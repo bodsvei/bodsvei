@@ -55,6 +55,13 @@ Currently exploring robotics, deep learning frameworks, and data-driven automati
 
 ## 🚀 Featured Repositories
 
+### 🧠 [Project Vulcan]https://github.com/bodsvei/project-vulcan)
+A project in which we aim at making a humanoid robot's facial structure that can interact with humans and have some simple skills and interactions.
+<p>
+  <img alt="Stars" src="https://img.shields.io/github/stars/bodsvei/project-vulcan?style=social">
+  <img alt="Language" src="https://img.shields.io/github/languages/top/bodsvei/project-vulcan?color=informational">
+</p>
+
 ### 🔧 [Logging App for ONGC](https://github.com/bodsvei/ONGC-logger-app)
 A modular SLAM (Simultaneous Localization and Mapping) framework using ROS2 and C++.  
 <p>
@@ -64,10 +71,3 @@ A modular SLAM (Simultaneous Localization and Mapping) framework using ROS2 and 
 </p>
 
 ---
-
-### 🧠 [pytorch-vision-utils]https://github.com/bodsvei/project-vulcan)
-A lightweight library of PyTorch utility functions for image preprocessing, augmentation, and model evaluation.  
-<p>
-  <img alt="Stars" src="https://img.shields.io/github/stars/bodsvei/project-vulcan?style=social">
-  <img alt="Language" src="https://img.shields.io/github/languages/top/bodsvei/project-vulcan?color=informational">
-</p>

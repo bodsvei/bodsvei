@@ -23,7 +23,7 @@ Currently exploring robotics, deep learning frameworks, and data-driven automati
   <img src="https://github-readme-stats.vercel.app/api?username=bodsvei&theme=dark&show_icons=true" alt="GitHub Stats" />
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bodsvei&theme=dark" alt="GitHub Streak"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=bodsvei&theme=dark" alt="GitHub Streak"/> -->
 </p>
 
 ---

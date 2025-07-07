@@ -64,11 +64,11 @@ A project in which we aim at making a humanoid robot's facial structure that can
   <img alt="Language" src="https://img.shields.io/github/languages/top/bodsvei/project-vulcan?color=informational">
 </p>
 
-### 🔧 [Logging App for ONGC](https://github.com/bodsvei/ONGC-logger-app)
+### 🔧 [Logging App for ONGC](https://github.com/bodsvei/ONGC-Connect)
 <p>
-  <img alt="Stars" src="https://img.shields.io/github/stars/bodsvei/ONGC-logger-app?style=social">
-  <img alt="Forks" src="https://img.shields.io/github/forks/bodsvei/ONGC-logger-app?style=social">
-  <img alt="Language" src="https://img.shields.io/github/languages/top/bodsvei/ONGC-logger-app?color=informational">
+  <img alt="Stars" src="https://img.shields.io/github/stars/bodsvei/ONGC-Connect?style=social">
+  <img alt="Forks" src="https://img.shields.io/github/forks/bodsvei/ONGC-Connect?style=social">
+  <img alt="Language" src="https://img.shields.io/github/languages/top/bodsvei/ONGC-Connect?color=informational">
 </p>
 
 ---

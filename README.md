@@ -9,8 +9,6 @@
   </a>
 </p>
 
----
-
 ## About Me
 
 ECE undergrad at BITS Pilani Goa (2028), working at the intersection of robotics, computer vision and hardware acceleration.
@@ -18,8 +16,6 @@ ECE undergrad at BITS Pilani Goa (2028), working at the intersection of robotics
 Currently building a monocular Visual SLAM pipeline with loop closure and pose graph optimization, evaluated on KITTI and a 2D systolic array accelerator in Verilog for dense matrix workloads.
 
 Interests: _SLAM, ML accelerators, embedded CV, RTL design_.
-
----
 
 ## My Toolkit
 

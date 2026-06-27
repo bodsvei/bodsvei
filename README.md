@@ -15,11 +15,9 @@
 
 ECE undergrad at BITS Pilani Goa (2027), working at the intersection of robotics, computer vision, and hardware acceleration.
 
-Currently building a monocular Visual SLAM pipeline with loop closure and pose graph optimization, evaluated on KITTI — and a 2D systolic array accelerator in Verilog for dense matrix workloads.
+Currently building a monocular Visual SLAM pipeline with loop closure and pose graph optimization, evaluated on KITTI and a 2D systolic array accelerator in Verilog for dense matrix workloads.
 
-Previously built a multi-threaded perception system on Jetson AGX Orin combining YOLOv3, DeepFace, and ResNet SSD, achieving ~76% reduction in end-to-end latency.
-
-Interests: SLAM, ML accelerators, embedded CV, RTL design.
+Interests: _SLAM, ML accelerators, embedded CV, RTL design_.
 
 ---
 

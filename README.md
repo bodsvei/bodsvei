@@ -22,15 +22,44 @@ Interests: _SLAM, ML accelerators, embedded CV, RTL design_.
 <p>
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img alt="Verilog" src="https://img.shields.io/badge/Verilog-FF6F00?style=for-the-badge&logo=v&logoColor=white"/>
   <img alt="ROS" src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-F38020?style=for-the-badge&logo=pytorch&logoColor=white"/>
-</p>
+  <!-- Hardware Design -->
+  <img alt="SystemVerilog" src="https://img.shields.io/badge/SystemVerilog-0066CC?style=for-the-badge&logo=ieee&logoColor=white"/>
+  <img alt="Verilog" src="https://img.shields.io/badge/Verilog-FF6F00?style=for-the-badge&logo=v&logoColor=white"/>
+  <img alt="VHDL" src="https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logo=v&logoColor=white"/>
+  <img alt="RISC-V" src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white"/>
+  <img alt="FPGA" src="https://img.shields.io/badge/FPGA-00979D?style=for-the-badge"/>
+  <!-- FPGA / EDA -->
+  <img alt="Vivado" src="https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=for-the-badge"/>
+  <img alt="Verilator" src="https://img.shields.io/badge/Verilator-FF6600?style=for-the-badge"/>
+  
+  <!-- ASIC / Analog -->
+  <img alt="Cadence Virtuoso" src="https://img.shields.io/badge/Cadence%20Virtuoso-B00020?style=for-the-badge"/>
+  <img alt="LTspice" src="https://img.shields.io/badge/LTspice-CC0000?style=for-the-badge"/>
+  <img alt="Sentaurus TCAD" src="https://img.shields.io/badge/Sentaurus%20TCAD-0066CC?style=for-the-badge"/>
+  <img alt="OpenLane" src="https://img.shields.io/badge/OpenLane-2E8B57?style=for-the-badge"/>
+  <img alt="Sky130" src="https://img.shields.io/badge/Sky130-444444?style=for-the-badge"/>
+  </p>
 
 ---
 
 ## Featured Repositories
+
+### [2D Systolic Array Accelerator](https://github.com/bodsvei/2D-systolic-array)
+RTL implementation of an 8×8 2D systolic array in Verilog for dense matrix multiplication workloads. Synthesized on FPGA with timing and area reports.
+<p>
+  <img alt="Stars" src="https://img.shields.io/github/stars/bodsvei/2D-systolic-array?style=social">
+  <img alt="Language" src="https://img.shields.io/github/languages/top/bodsvei/2D-systolic-array?color=informational">
+</p>
+
+### [RV32-I RISV-V processor](https://github.com/bodsvei/BITSillicon_RISC-V)
+Designed and implemented a 5-stage pipelined RV32I RISC-V processor in Verilog with hazard detection, forwarding, and branch handling. Verified functionality using comprehensive testbenches and FPGA deployment, demonstrating a complete end-to-end processor implementation.
+<p>
+  <img alt="Stars" src="https://img.shields.io/github/stars/bodsvei/BITSillicon_RISC-Vy?style=social">
+  <img alt="Language" src="https://img.shields.io/github/languages/top/bodsvei/BITSillicon_RISC-V?color=informational">
+</p>
 
 ### [Visual SLAM Pipeline](https://github.com/bodsvei/VisualSLAM)
 Monocular visual SLAM system with ORB feature tracking, bundle adjustment, loop closure detection, and pose graph optimization. Evaluated on KITTI sequence 00. Implements map save/load and relocalization.
@@ -39,12 +68,6 @@ Monocular visual SLAM system with ORB feature tracking, bundle adjustment, loop 
   <img alt="Language" src="https://img.shields.io/github/languages/top/bodsvei/VisualSLAM?color=informational">
 </p>
 
-### [2D Systolic Array Accelerator](https://github.com/bodsvei/2D-systolic-array)
-RTL implementation of an 8×8 2D systolic array in Verilog for dense matrix multiplication workloads. Synthesized on FPGA with timing and area reports.
-<p>
-  <img alt="Stars" src="https://img.shields.io/github/stars/bodsvei/2D-systolic-array?style=social">
-  <img alt="Language" src="https://img.shields.io/github/languages/top/bodsvei/2D-systolic-array?color=informational">
-</p>
 
 ### [Project Vulcan](https://github.com/bodsvei/project-vulcan)
 Multi-threaded perception pipeline on Jetson AGX Orin integrating YOLOv3 (object detection), DeepFace (facial recognition), and ResNet SSD (person detection). Achieved ~76% reduction in end-to-end inference latency through parallel execution.

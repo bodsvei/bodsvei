@@ -26,14 +26,9 @@ Interests: _SLAM, ML accelerators, embedded CV, RTL design_.
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-F38020?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <!-- Hardware Design -->
-  <img alt="SystemVerilog" src="https://img.shields.io/badge/SystemVerilog-0066CC?style=for-the-badge&logo=ieee&logoColor=white"/>
   <img alt="Verilog" src="https://img.shields.io/badge/Verilog-FF6F00?style=for-the-badge&logo=v&logoColor=white"/>
-  <img alt="VHDL" src="https://img.shields.io/badge/VHDL-543978?style=for-the-badge&logo=v&logoColor=white"/>
   <img alt="RISC-V" src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white"/>
   <img alt="FPGA" src="https://img.shields.io/badge/FPGA-00979D?style=for-the-badge"/>
-  <!-- FPGA / EDA -->
-  <img alt="Vivado" src="https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=for-the-badge"/>
-  <img alt="Verilator" src="https://img.shields.io/badge/Verilator-FF6600?style=for-the-badge"/>
   
   <!-- ASIC / Analog -->
   <img alt="Cadence Virtuoso" src="https://img.shields.io/badge/Cadence%20Virtuoso-B00020?style=for-the-badge"/>

@@ -52,7 +52,7 @@ RTL implementation of an 8×8 2D systolic array in Verilog for dense matrix mult
 ### [RV32-I RISV-V processor](https://github.com/bodsvei/BITSillicon_RISC-V)
 Designed and implemented a 5-stage pipelined RV32I RISC-V processor in Verilog with hazard detection, forwarding, and branch handling. Verified functionality using comprehensive testbenches and FPGA deployment, demonstrating a complete end-to-end processor implementation.
 <p>
-  <img alt="Stars" src="https://img.shields.io/github/stars/bodsvei/BITSillicon_RISC-Vy?style=social">
+  <img alt="Stars" src="https://img.shields.io/github/stars/bodsvei/BITSillicon_RISC-V?style=social">
   <img alt="Language" src="https://img.shields.io/github/languages/top/bodsvei/BITSillicon_RISC-V?color=informational">
 </p>
 
